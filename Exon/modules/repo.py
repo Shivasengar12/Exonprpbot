@@ -12,7 +12,7 @@ from telethon import __version__ as s
 
 from Exon import Abishnoi as pbot
 
-ABISHNOIX = "https://te.legra.ph/file/abfc49a1cc4b5629dc8cd.jpg"
+ABISHNOIX = "https://telegra.ph/file/ff599e17c4df43c12f03d.jpg"
 
 
 @pbot.on_cmd("repo")
@@ -21,7 +21,7 @@ async def repo(_, message):
         photo=ABISHNOIX,
         caption=f"""✨ **ʜᴇʏ {message.from_user.mention},**
 
-**ᴏᴡɴᴇʀ  : [𝐀ʙɪꜱʜɴᴏɪ](https://t.me/Abishnoi1M)**
+**ᴏᴡɴᴇʀ  : [•sᴛʀᴀɴɢᴇʀ•](https://t.me/Mastiwithfriendsx)**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀꜱɪᴏɴ :** `{o}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{s}`
@@ -31,10 +31,10 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•ᴍᴜꜱɪᴄ•", url="https://github.com/Abishnoi69/AsuXMusic"
+                        "•ᴄʜᴀᴛ ɢʀᴘ•", url="https://t.me/mastiwithfriendsx"
                     ),
                     InlineKeyboardButton(
-                        "•ʀᴏʙᴏᴠ1•", url="https://github.com/Abishnoi69/ExonRobot"
+                        "•ʀᴏʙᴏ•", url="http://t.me/Melaniarobot"
                     ),
                 ]
             ]
